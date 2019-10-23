@@ -1,0 +1,7 @@
+Sports - id,name,description
+Images - id,image
+Videos	- id,video
+Players - id,name
+Teams	- id,name,logo image id,sports id
+Events	- id,name
+Login	- username,password
