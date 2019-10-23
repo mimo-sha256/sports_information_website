@@ -1,0 +1,22 @@
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+button {
+    margin: 0 45%;
+}
+
+.jumbotron {
+    text-align: center;
+    font-family: 'Rock Salt', cursive;
+}
+
+label {
+    display: block;
+    text-align: center;
+}
+
+small {
+    text-align: center;
+}
