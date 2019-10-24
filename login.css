@@ -5,6 +5,7 @@ form {
 
 button {
     margin: 0 45%;
+    width: max-content;
 }
 
 .jumbotron {
@@ -18,5 +19,14 @@ label {
 }
 
 small {
+    display: block;
     text-align: center;
+}
+
+.signup {
+    display: none;
+}
+
+#signupButton{
+    margin-top: 15px;
 }
