@@ -9,7 +9,9 @@
 .display-4 {
     text-align: center;
 }
+
 #des1{
     text-align: center;
-
+    max-width: 1200px;
+    margin: 0 auto;
 }
