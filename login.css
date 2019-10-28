@@ -1,9 +1,9 @@
-form {
+#loginForm {
     max-width: 400px;
     margin: 0 auto;
 }
 
-button {
+#loginButton {
     margin: 0 45%;
     width: max-content;
 }
@@ -11,6 +11,8 @@ button {
 .jumbotron {
     text-align: center;
     font-family: 'Rock Salt', cursive;
+    padding-top: 84px;
+    padding-bottom: 20px;
 }
 
 label {
