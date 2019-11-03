@@ -16,13 +16,15 @@
 
 #videosList {
     max-width: 600px; 
-     overflow: hidden;
+    overflow: hidden;
    }
    
 .video {
      background-image: url('https://img.youtube.com/vi/nZcejtAwxz4/maxresdefault.jpg');
+     background-size: cover;
+     background-repeat: no-repeat;
      height: 330px;
-     width: 600px;
+     width: 100%;
      margin-bottom: 50px;
 }
    
