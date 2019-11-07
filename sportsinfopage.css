@@ -14,5 +14,14 @@
     text-align: center;
     max-width: 1200px;
     margin: 0 auto;
-    border: 2px solid black;
+}
+
+#teamtitle{
+    text-align: center;
+    font-size: 40px;
+}
+
+#playertitle{
+    text-align: center;
+    font-size: 40px;
 }
